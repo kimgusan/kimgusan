@@ -1,4 +1,5 @@
 ### Hi there 👋
+![main_title](https://github.com/kimgusan/kimgusan/assets/156397911/081a7f3e-6b2f-4630-a769-3f7c9df34709)
 
 <!--
 **kimgusan/kimgusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
