@@ -1,7 +1,7 @@
 ![main_title](https://github.com/kimgusan/kimgusan/assets/156397911/081a7f3e-6b2f-4630-a769-3f7c9df34709)
 
 
-# 🇰🇷About Me
+# About Me
 - 🙋‍♂️ 김규산
 - 🎊 1994.03.21 
 - 📱 010-3432-0132
