@@ -5,7 +5,7 @@
 - 🙋‍♂️ 김규산
 - 🎊 1994.03.21 
 - 📱 010-3432-0132
-- 📧 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:kimkyusan94@gmail.com) 📗 [![Notion Badge](https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=white)](https://spotty-alligator-d0a.notion.site/b5c2a4cd0d004e29b5dde7e98ce2ae09?pvs=4)
+- 📧 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:kimkyusan94@gmail.com) 📗 [![Notion Badge](https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=white)]()
 
 <br/>
 
