@@ -9,6 +9,27 @@
 
 <br/>
 
+<hr>
+## 📚 Project Link 
+0. Web Front-End & Back-End
+(Django)
+ - Front-End & Back-End [https://github.com/kimgusan/teenplay_server/blob/master/README.md]
+ 
+1. Data Analysis
+ 1-1. 
+ 1-2.
+ 1-3. 
+ 
+2. RFM
+
+3. Meachine Learning
+ 3-1. AI [https://github.com/kimgusan/teenplay_server/blob/master/README_ai_project.md]
+  
+4. Deep Learning
+  
+5. Time Series
+
+<hr>
 ## 🛠️ Tech Stack
 
 | Back-End | Front-End | DataBase | IDE |
