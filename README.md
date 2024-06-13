@@ -14,7 +14,7 @@
 ## 📚 Project Link 
 0. Web Front-End & Back-End
 (Django)
- - Front-End & Back-End
+ - Front-End & Back-End  
 [https://github.com/kimgusan/teenplay_server/blob/master/README.md]
  
 1. Data Analysis
@@ -25,7 +25,7 @@
 2. RFM
 
 3. Meachine Learning
- 3-1. AI
+ 3-1. AI  
 [https://github.com/kimgusan/teenplay_server/blob/master/README_ai_project.md]
   
 5. Deep Learning
