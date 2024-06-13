@@ -12,27 +12,29 @@
 <hr>
 
 ## 📚 Project Link 
-0. Web Front-End & Back-End
+### 0. Web (Django)
 (Django)
- - Front-End & Back-End  
+#### - Front-End & Back-End  
 [https://github.com/kimgusan/teenplay_server/blob/master/README.md]
  
-1. Data Analysis
- 1-1. 
- 1-2.
- 1-3. 
- 
-2. RFM
+### 1. Data Analysis
+#### - 당뇨 및 심장 혈관 발생 요소 데이터 분석
+[https://github.com/kimgusan/Data_Analysis/blob/master/project/research_pdf/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf]
 
-3. Meachine Learning
+### 2. RFM
+#### - 키즈카페 이용자 소비 현황 데이터 분석
+[https://github.com/kimgusan/Data_Analysis/blob/master/project/research_pdf/RFM%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf]
+
+### 3. Meachine Learning
  3-1. AI  
 [https://github.com/kimgusan/teenplay_server/blob/master/README_ai_project.md]
   
-5. Deep Learning
-  
-6. Time Series
+### 4. Deep Learning
+
+### 5. Time Series
 
 <hr>
+
 ## 🛠️ Tech Stack
 
 | Back-End | Front-End | DataBase | IDE |
