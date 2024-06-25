@@ -5,7 +5,9 @@
 - 🙋‍♂️ 김규산
 - 🎊 1994.03.21 
 - 📱 010-3432-0132
-- 📧 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:kimkyusan94@gmail.com) 📗 [![Notion Badge](https://sunrise-digestion-20d.notion.site/Kyusan-Kim-260c2c93311c472482a9e113eec4add3?pvs=4)]()
+- 📧 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:kimkyusan94@gmail.com) 
+- 📗 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://sunrise-digestion-20d.notion.site/Kyusan-Kim-260c2c93311c472482a9e113eec4add3?pvs=4)](https://sunrise-digestion-20d.notion.site/Kyusan-Kim-260c2c93311c472482a9e113eec4add3?pvs=4)
+
 
 ## 🛠️ Tech Stack
 
